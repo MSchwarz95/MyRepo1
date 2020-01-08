@@ -72,6 +72,42 @@ namespace WpfApplication1.Properties {
         /// <summary>
         ///   Looks up a localized string similar to .
         /// </summary>
+        internal static string dfg {
+            get {
+                return ResourceManager.GetString("dfg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string dfgdfgdf {
+            get {
+                return ResourceManager.GetString("dfgdfgdf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string dfgdfgdfg {
+            get {
+                return ResourceManager.GetString("dfgdfgdfg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string dfgdfgdfgdfg {
+            get {
+                return ResourceManager.GetString("dfgdfgdfgdfg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
         internal static string String134234 {
             get {
                 return ResourceManager.GetString("String134234", resourceCulture);
